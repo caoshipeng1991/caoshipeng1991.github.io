@@ -2,16 +2,16 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://qinghongjiao.com
+url: https://caoshipeng1991.github.io
 date_format: "ordinal"
-title: 靑紅椒
-subtitle: "青红椒"
-description: "青红椒的博客，，QingHongJiao,靑紅椒，青红胶"
-keywords: 青红椒, qinghongjiao，青红胶，
+title: Russell
+subtitle: "Russell"
+description: "Russell"
+keywords: Russell，
 timezone: Asia/YangLing
 encoding: "utf-8"
 side_bar_repo_limit: 8
-repository: qinghongjiao/qinghongjiao.github.io
+repository: caoshipeng1991/caoshipeng1991.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: 靑紅椒
+author: Russell
 organization: 
 organization_url: 
-github_username: QingHongJiao
-location: YangLing, China
-email: mail@gmail.com
+github_username: Russell
+location: SZ, China
+email: russellcao@tencent.com
 
 # ---------------- #
 #    Navigation    #
@@ -128,13 +128,6 @@ comments_provider: gitalk
 #     oauth:
 #        client_id: d2e1cbbd2989
 #         client_secret: b42a41
-# https://github.com/gitalk/gitalk#install
-gitalk:
-    gitalk:
-    owner: qinghongjiao
-    repo: gitalk
-    clientID: 7d4444b91100f1f08ca2
-    clientSecret: 25069b7f66d24c87615bff006848ee1b7345b50a
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
@@ -147,13 +140,3 @@ simple_jekyll_search:
     # 最多显示多少条搜索结果
     limit: 10
 
-# ---------------- #
-#      Google      #
-# ---------------- #
-google:
-    analytics_id: UA-80669
-    adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
-        content_footer: false
